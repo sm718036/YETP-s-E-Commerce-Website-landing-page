@@ -1,12 +1,3 @@
-* {
-    padding: 0;
-    margin: 0;
-    text-decoration: none;
-    list-style-type: none;
-    box-sizing: border-box;
-    font-family: Satoshi;
-}
-
 @font-face {
     font-family: 'Satoshi';
     src: url('../fonst/satoshi/false.woff2') format('woff2'),
@@ -17,6 +8,15 @@
     font-family: 'FONTSPRING DEMO - Integral CF Extra';
     src: url('../fonst/integralCF/FONTSPRINGDEMO-IntegralCFBoldRegular.woff2') format('woff2'),
         url('../fonst/integralCF/FONTSPRINGDEMO-IntegralCFBoldRegular.woff') format('woff');
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    font-family: Satoshi;
 }
 
 body {
